@@ -3,7 +3,7 @@
     z-index:10; 
     padding:6px; 
     background:#000; 
-    height:9px;
+    height:11px;
     width:9px;
 }
 #burger:before{
@@ -15,6 +15,5 @@
     left:0px; 
     right:0px; 
     bottom:5px; 
-    border-top:3px solid #fff;
-    border-bottom:3px solid #fff;
+    border-top:13px double #fff;
 }
